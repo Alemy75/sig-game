@@ -1,0 +1,729 @@
+{
+  "version": 1,
+  "title": "Большая игра",
+  "rounds": [
+    {
+      "name": "Раунд 1",
+      "themes": [
+        {
+          "id": "r0t0",
+          "title": "Рыбак рыбака",
+          "questions": [
+            {
+              "id": "r0t0q0",
+              "text": "Какой город называют столицей Франции?",
+              "answer": "Париж.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 100
+            },
+            {
+              "id": "r0t0q1",
+              "text": "На каком материке находится Бразилия?",
+              "answer": "Южная Америка.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 200
+            },
+            {
+              "id": "r0t0q2",
+              "text": "Какой океан самый большой по площади?",
+              "answer": "Тихий океан.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 300
+            },
+            {
+              "id": "r0t0q3",
+              "text": "Как называется столица Исландии?",
+              "answer": "Рейкьявик.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 400
+            },
+            {
+              "id": "r0t0q4",
+              "text": "Какой пролив отделяет Азию от Северной Америки?",
+              "answer": "Берингов пролив.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 500
+            }
+          ]
+        },
+        {
+          "id": "r0t1",
+          "title": "В доту как на работу",
+          "questions": [
+            {
+              "id": "r0t1q0",
+              "text": "Какую планету называют Красной планетой?",
+              "answer": "Марс.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 100
+            },
+            {
+              "id": "r0t1q1",
+              "text": "Какой химический элемент обозначается символом O?",
+              "answer": "Кислород.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 200
+            },
+            {
+              "id": "r0t1q2",
+              "text": "Сколько костей обычно насчитывают в скелете взрослого человека?",
+              "answer": "206.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 300
+            },
+            {
+              "id": "r0t1q3",
+              "text": "В каких единицах СИ измеряют электрическое сопротивление?",
+              "answer": "В омах.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 400
+            },
+            {
+              "id": "r0t1q4",
+              "text": "Как называется переход вещества из твёрдого состояния сразу в газообразное?",
+              "answer": "Сублимация (возгонка).",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 500
+            }
+          ]
+        },
+        {
+          "id": "r0t2",
+          "title": "Качалка дом второй",
+          "questions": [
+            {
+              "id": "r0t2q0",
+              "text": "Кто написал «Сказку о рыбаке и рыбке»?",
+              "answer": "Александр Сергеевич Пушкин.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 100
+            },
+            {
+              "id": "r0t2q1",
+              "text": "Как звали друга Шерлока Холмса, доктора и рассказчика?",
+              "answer": "Доктор Джон Ватсон.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 200
+            },
+            {
+              "id": "r0t2q2",
+              "text": "Кто автор романа «Мастер и Маргарита»?",
+              "answer": "Михаил Булгаков.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "cat",
+              "value": 300
+            },
+            {
+              "id": "r0t2q3",
+              "text": "Как называется корабль капитана Немо?",
+              "answer": "«Наутилус».",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 400
+            },
+            {
+              "id": "r0t2q4",
+              "text": "Кто написал роман «Сто лет одиночества»?",
+              "answer": "Габриэль Гарсиа Маркес.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 500
+            }
+          ]
+        },
+        {
+          "id": "r0t3",
+          "title": "Жизнь Максика",
+          "questions": [
+            {
+              "id": "r0t3q0",
+              "text": "Когда у Максика день рождения?",
+              "answer": "29 сентября 2002",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 100
+            },
+            {
+              "id": "r0t3q1",
+              "text": "Когда Максик женился на Полишке?\n\n1) 22.11.2023\n2)22.12.2023\n3)23.12.2023",
+              "answer": "2)22.12.2023",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 200
+            },
+            {
+              "id": "r0t3q2",
+              "text": "Сколько лет Максик занимался рукопашным боем?",
+              "answer": "5",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "cat",
+              "value": 300
+            },
+            {
+              "id": "r0t3q3",
+              "text": "Сколько лет кошке Сибе?",
+              "answer": "4",
+              "seconds": 20,
+              "media": [
+                {
+                  "kind": "image",
+                  "name": "siba.jpg",
+                  "data": "uploads/4d0284dfc46b21a3911d42218e3114dbdc8d004f58afc801d1e5afaa5335745f.jpg"
+                }
+              ],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 400
+            },
+            {
+              "id": "r0t3q4",
+              "text": "Сколько у Максика трусов?",
+              "answer": "13",
+              "seconds": 20,
+              "media": [
+                {
+                  "kind": "image",
+                  "name": "catpans.jpeg",
+                  "data": "uploads/ea15f71a0123cde679833da43883cb41a8f9daa1f3fed0fd2747c83595b16df6.jpg"
+                }
+              ],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 500
+            }
+          ]
+        },
+        {
+          "id": "r0t4",
+          "title": "Было или не было",
+          "questions": [
+            {
+              "id": "r0t4q0",
+              "text": "Какое животное — самое крупное из ныне живущих?",
+              "answer": "Синий кит.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 100
+            },
+            {
+              "id": "r0t4q1",
+              "text": "Сколько ног у паука?",
+              "answer": "Восемь.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 200
+            },
+            {
+              "id": "r0t4q2",
+              "text": "Какая птица умеет летать назад?",
+              "answer": "Колибри.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 300
+            },
+            {
+              "id": "r0t4q3",
+              "text": "Какое яйцекладущее млекопитающее имеет утиный клюв?",
+              "answer": "Утконос.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "auction",
+              "value": 400
+            },
+            {
+              "id": "r0t4q4",
+              "text": "Как называется способность животного восстанавливать утраченные части тела?",
+              "answer": "Регенерация.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 500
+            }
+          ]
+        },
+        {
+          "id": "r0t5",
+          "title": "Музыкальная интуиция",
+          "questions": [
+            {
+              "id": "r0t5q0",
+              "text": "Сколько минут в полутора часах?",
+              "answer": "90 минут.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 100
+            },
+            {
+              "id": "r0t5q1",
+              "text": "Продолжите последовательность: 2, 4, 8, 16, …",
+              "answer": "32.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 200
+            },
+            {
+              "id": "r0t5q2",
+              "text": "У квадрата отрезали один угол прямой линией, не проходящей через другие вершины. Сколько углов осталось?",
+              "answer": "Пять.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 300
+            },
+            {
+              "id": "r0t5q3",
+              "text": "В комнате горели 10 свечей. Три потушили, остальные сгорели полностью. Сколько свечей осталось?",
+              "answer": "Три — те, что потушили.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 400
+            },
+            {
+              "id": "r0t5q4",
+              "text": "Сколько раз за сутки минутная и часовая стрелки совпадают?",
+              "answer": "22 раза.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Раунд 2",
+      "themes": [
+        {
+          "id": "r1t0",
+          "title": "Че за тип",
+          "questions": [
+            {
+              "id": "r1t0q0",
+              "text": "В какой стране находится город Киото?",
+              "answer": "В Японии.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 200
+            },
+            {
+              "id": "r1t0q1",
+              "text": "Какая европейская столица стоит на реке Влтаве?",
+              "answer": "Прага.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 400
+            },
+            {
+              "id": "r1t0q2",
+              "text": "В какой стране расположен древний город Петра?",
+              "answer": "В Иордании.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 600
+            },
+            {
+              "id": "r1t0q3",
+              "text": "Как называется столица Новой Зеландии?",
+              "answer": "Веллингтон.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 800
+            },
+            {
+              "id": "r1t0q4",
+              "text": "Какое государство полностью окружено территорией Южно-Африканской Республики?",
+              "answer": "Лесото.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "id": "r1t1",
+          "title": "Знаю чей почерк",
+          "questions": [
+            {
+              "id": "r1t1q0",
+              "text": "Кто первым из людей полетел в космос?",
+              "answer": "Юрий Гагарин.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 200
+            },
+            {
+              "id": "r1t1q1",
+              "text": "Кто сформулировал закон всемирного тяготения?",
+              "answer": "Исаак Ньютон.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 400
+            },
+            {
+              "id": "r1t1q2",
+              "text": "Какой учёный открыл пенициллин в 1928 году?",
+              "answer": "Александр Флеминг.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 600
+            },
+            {
+              "id": "r1t1q3",
+              "text": "Как называется число, равное отношению длины окружности к её диаметру?",
+              "answer": "Число π (пи).",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 800
+            },
+            {
+              "id": "r1t1q4",
+              "text": "Какой химический элемент назван в честь родины Марии Склодовской-Кюри?",
+              "answer": "Полоний — в честь Польши.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "id": "r1t2",
+          "title": "Найди кота",
+          "questions": [
+            {
+              "id": "r1t2q0",
+              "text": "Сколько струн у стандартной шестиструнной гитары?",
+              "answer": "Шесть.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 200
+            },
+            {
+              "id": "r1t2q1",
+              "text": "Как называется самый низкий мужской певческий голос?",
+              "answer": "Бас.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 400
+            },
+            {
+              "id": "r1t2q2",
+              "text": "Какой композитор написал балет «Щелкунчик»?",
+              "answer": "Пётр Ильич Чайковский.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "cat",
+              "value": 600
+            },
+            {
+              "id": "r1t2q3",
+              "text": "Какой инструмент имеет клавиши, педали и множество труб?",
+              "answer": "Орган.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 800
+            },
+            {
+              "id": "r1t2q4",
+              "text": "Кто написал цикл концертов «Времена года» в эпоху барокко?",
+              "answer": "Антонио Вивальди.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "id": "r1t3",
+          "title": "Мемология",
+          "questions": [
+            {
+              "id": "r1t3q0",
+              "text": "Кто написал картину «Мона Лиза»?",
+              "answer": "Леонардо да Винчи.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 200
+            },
+            {
+              "id": "r1t3q1",
+              "text": "Как называется живопись по сырой штукатурке?",
+              "answer": "Фреска.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 400
+            },
+            {
+              "id": "r1t3q2",
+              "text": "Какой художник написал «Звёздную ночь» 1889 года?",
+              "answer": "Винсент Ван Гог.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 600
+            },
+            {
+              "id": "r1t3q3",
+              "text": "Как называется направление живописи, к которому относился Клод Моне?",
+              "answer": "Импрессионизм.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 800
+            },
+            {
+              "id": "r1t3q4",
+              "text": "Кто создал скульптуру «Мыслитель»?",
+              "answer": "Огюст Роден.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "id": "r1t4",
+          "title": "Смайл фейс =)",
+          "questions": [
+            {
+              "id": "r1t4q0",
+              "text": "Как называют слова с противоположным значением?",
+              "answer": "Антонимы.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 200
+            },
+            {
+              "id": "r1t4q1",
+              "text": "Как называется слово, одинаково читающееся слева направо и справа налево?",
+              "answer": "Палиндром.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 400
+            },
+            {
+              "id": "r1t4q2",
+              "text": "Как называют устойчивое сочетание слов с переносным значением?",
+              "answer": "Фразеологизм.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 600
+            },
+            {
+              "id": "r1t4q3",
+              "text": "Как называется перестановка букв слова, образующая другое слово?",
+              "answer": "Анаграмма.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "auction",
+              "value": 800
+            },
+            {
+              "id": "r1t4q4",
+              "text": "Как называется намеренное преувеличение в художественной речи?",
+              "answer": "Гипербола.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "id": "r1t5",
+          "title": "Школота е#%ая",
+          "questions": [
+            {
+              "id": "r1t5q0",
+              "text": "Чему равен квадрат числа 12?",
+              "answer": "144.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 200
+            },
+            {
+              "id": "r1t5q1",
+              "text": "Сколько граней у куба?",
+              "answer": "Шесть.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 400
+            },
+            {
+              "id": "r1t5q2",
+              "text": "Чему равна сумма внутренних углов треугольника на плоскости?",
+              "answer": "180 градусов.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 600
+            },
+            {
+              "id": "r1t5q3",
+              "text": "Сколько различных двузначных чисел можно составить из цифр 1, 2, 3 без повторения цифр?",
+              "answer": "Шесть: 12, 13, 21, 23, 31, 32.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 800
+            },
+            {
+              "id": "r1t5q4",
+              "text": "Какое наименьшее положительное число делится без остатка на 2, 3, 4, 5 и 6?",
+              "answer": "60.",
+              "seconds": 20,
+              "media": [],
+              "answerMedia": [],
+              "type": "normal",
+              "value": 1000
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "finals": [
+    {
+      "id": "f0",
+      "text": "Как называется календарь, введённый в 1582 году и используемый сегодня в большинстве стран мира?",
+      "answer": "Григорианский календарь.",
+      "seconds": 60,
+      "media": [],
+      "answerMedia": [],
+      "title": "Время"
+    },
+    {
+      "id": "f1",
+      "text": "Какой материк не пересекает ни один меридиан, кроме тех, которые проходят через него все?",
+      "answer": "Антарктида: все меридианы сходятся на Южном полюсе.",
+      "seconds": 60,
+      "media": [],
+      "answerMedia": [],
+      "title": "На краю света"
+    },
+    {
+      "id": "f2",
+      "text": "В каком романе герой сражается с ветряными мельницами, принимая их за великанов?",
+      "answer": "«Дон Кихот» Мигеля де Сервантеса.",
+      "seconds": 60,
+      "media": [],
+      "answerMedia": [],
+      "title": "Великие книги"
+    }
+  ]
+}

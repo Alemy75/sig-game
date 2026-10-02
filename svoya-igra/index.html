@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; media-src 'self' data:; connect-src 'self' ws://127.0.0.1:8787; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <meta name="theme-color" content="#080f31">
+  <title>Своя игра</title>
+  <script type="module" src="/main.js"></script>
+</head>
+<body>
+  <div class="ambient" aria-hidden="true"></div>
+  <header class="topbar">
+    <button class="brand" data-action="home" aria-label="Своя игра — главное меню"><span class="brand-mark">СИ<span>✦</span></span><span>СВОЯ ИГРА<small>ВАШ ВЕЧЕР. ВАШИ ПРАВИЛА.</small></span></button>
+    <div class="top-right"><span id="save-status" class="save-status" role="status">Загрузка…</span><button class="button subtle compact" data-action="fullscreen" id="fullscreen-button">⛶ На весь экран</button></div>
+  </header>
+  <main id="app" tabindex="-1"><div class="loading">Готовим игровое поле…</div></main>
+  <div id="toast" role="status" aria-live="polite" hidden></div>
+  <dialog id="dialog" aria-label="Диалог"><div id="dialog-content"></div></dialog>
+  <input id="import-file" type="file" accept="application/json,.json" hidden>
+  <noscript>Для запуска игры включите JavaScript в настройках браузера.</noscript>
+</body>
+</html>
